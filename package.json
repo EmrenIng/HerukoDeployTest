@@ -13,10 +13,8 @@
     "start": "node server.js",
     "watch": "nodemon server.js"
   },
-  "author": "",
-  "license": "ISC"
-},
- "scripts": {
+    "scripts": {
    "start": "node server.js"
  }
-}
+},
+
